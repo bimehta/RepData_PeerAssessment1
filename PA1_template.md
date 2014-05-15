@@ -271,6 +271,8 @@ xyplot(steps ~ interval | day_type, data = mydata_avg_new, type = "l", col = "bl
 
 ![plot of chunk unnamed-chunk-17](figure/unnamed-chunk-17.png) 
 
+From the above graph we see that during the weekend the number of steps vary almost constantly between 100-150 throghout the day. However during the weekdays the highest number of average steps are around 900th interval which is probably around late morning.
+Hence there is some considerable difference in the average number of steps during weekend as compared to weekdays.
 ### END OF DOCUMENT
 
 
